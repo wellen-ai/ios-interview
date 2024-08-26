@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/irwin/dev/welling/ios/Welling/com.welling.interview/Welling Interview.xcodeproj">
    </FileRef>
 </Workspace>
